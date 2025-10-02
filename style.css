@@ -248,5 +248,6 @@ footer {
     .info-cards { flex-direction: column; align-items: center; gap: 18px; }
     .nav { flex-direction: column; gap: 12px; }
     .hero { min-height: 70vh; align-items: center; text-align: center; }
-    .hero-bg-svg { height: 320px; }
+    .hero-bg-svg { height: 480px; }
+
 }
